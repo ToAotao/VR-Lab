@@ -1,10 +1,10 @@
 # LearningHumanOrgans
  Author: Xiaotao Wu, Yuheng Lin
- Tools:Maya,Unity,OBS studio, oculus rift s
- Asserts used:
- ColofulButtons
- Easy Primivtive People
- Low Poly Pack
- VRTK v3
- Soja Exiles
- Oculus
+ \nTools:Maya,Unity,OBS studio, oculus rift s
+ \nAsserts used:
+ \nColofulButtons
+ \nEasy Primivtive People
+ \nLow Poly Pack
+ \nVRTK v3
+ \nSoja Exiles
+ \nOculus
